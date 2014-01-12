@@ -1,6 +1,6 @@
 ## douban-client
 
-douban-client 是对豆瓣 API v2 接口进行了一个简单封装，主要包括了 OAuth 2.0 认证、图片上传以及接口方面的调用。
+douban-client 是对豆瓣 API v2 接口进行了一个简单封装Python Library，主要包括了 OAuth 2.0 认证、图片上传以及接口方面的调用。
 
 目前已完成的接口有：
 ``` 
@@ -18,6 +18,11 @@ douban-client 是对豆瓣 API v2 接口进行了一个简单封装，主要包�
 * 论坛 Discussion
 * 回复 Comment
 ```
+### 其他语言的第三方api client
+
+* Ruby [douban_api](https://github.com/seansay/douban_api) by [@seansay](https://github.com/seansay)
+* node.js [douban-client](https://github.com/caijiehong/douban-client) by [@caijiehong](https://github.com/caijiehong)
+* Java [Douban-Java-SDK-OAuth2](https://github.com/UglyTroLL/Douban-Java-SDK-OAuth2) by [@UglyTroLL](https://github.com/UglyTroLL)
 
 ### 安装
 ```
